@@ -1,0 +1,6 @@
+[25-Feb-2024 18:16:03 America/Sao_Paulo] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home1/suptec06/mono.suptech.com.br/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1253
+[25-Feb-2024 18:16:03 America/Sao_Paulo] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home1/suptec06/mono.suptech.com.br/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1262
+[25-Feb-2024 18:16:03 America/Sao_Paulo] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home1/suptec06/mono.suptech.com.br/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2485
+[25-Feb-2024 18:16:03 America/Sao_Paulo] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home1/suptec06/mono.suptech.com.br/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2610
+[25-Feb-2024 18:16:03 America/Sao_Paulo] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home1/suptec06/mono.suptech.com.br/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2622
+[25-Feb-2024 18:16:03 America/Sao_Paulo] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home1/suptec06/mono.suptech.com.br/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
